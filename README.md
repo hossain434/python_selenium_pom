@@ -30,6 +30,8 @@
 
 11. if __name__ == '__main__': __name__ is a built-in variable in python that stores the name of the current module/script being executed. If the current module is executing then the __name__ variable is assigned the value __main__ otherwise it simply contains the name of the imported module or script.
 
+12. Execute script: python tests/AllTests.py -v Test_AMZN_Search
+
 ##### Reference:
 
 https://medium.com/@asheeshmisra29/web-automation-selenium-webdriver-and-python-getting-started-part-3-a9c07143d36d
